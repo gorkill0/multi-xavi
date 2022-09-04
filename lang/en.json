@@ -1,0 +1,19 @@
+{
+    "Title": "Title",
+    "Author": "Author",
+    "Books": "Books",
+    "Contact": "Contact",
+    "Language": "Language",
+    "Submit": "Submit",
+    "Create": "Create",
+    "Add Book": "Add Book",
+    "Email": "E-mail ",
+    "Message": "Message ",
+    "example email": "example@mail.com",
+    "Edit": "Edit",
+    "confirm delete": "Do you want delete?",
+    "Delete": "Delete",
+    "Book added": "Book added successfully",
+    "Book edited": "Book edited successfully",
+    "Message sent": "Message sent"
+}

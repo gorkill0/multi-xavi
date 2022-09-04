@@ -1,0 +1,20 @@
+{
+    "Title": "Título",
+    "Author": "Autor",
+    "Books": "Libros",
+    "Contact": "Contacto",
+    "Language": "Idioma",
+    "Submit": "Enviar",
+    "Create": "Crear",
+    "Add Book": "Añadir Libro",
+    "Email": "Correo",
+    "Message": "Mensaje",
+    "example email": "ejemplo@email.es",
+    "Edit": "Editar",
+    "confirm delete": "¿Quieres eliminar?",
+    "Delete": "Eliminar",
+    "Book added": "Libro agregado correctamente",
+    "Book edited": "Libro editado correctamente",
+    "Message sent": "Mensaje enviado"
+    
+}
