@@ -15,5 +15,7 @@
     "Delete": "Delete",
     "Book added": "Book added successfully",
     "Book edited": "Book edited successfully",
-    "Message sent": "Message sent"
+    "Message sent": "Message sent",
+    "book": "book",
+    "contat": "contact"
 }

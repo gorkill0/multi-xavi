@@ -20,8 +20,8 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-        <a class="nav-link {{ str_contains(request()->path(), 'book')? 'active' :''}}" href="{{ route('book.index') }}">{{__('Books')}}</a>
-        <a class="nav-link {{ str_contains(request()->path(), 'contact')? 'active' :''}}" href="{{ route('contact') }}">{{__('Contact')}}</a>
+        <a class="nav-link {{ str_contains(request()->path(), __('book'))? 'active' :''}}" href="{{ route('book.index') }}">{{__('Books')}}</a>
+        <a class="nav-link {{ str_contains(request()->path(), __('contact'))? 'active' :''}}" href="{{ route('contact') }}">{{__('Contact')}}</a>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             {{__('Language')}}
