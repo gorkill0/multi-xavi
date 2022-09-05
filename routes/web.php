@@ -18,6 +18,10 @@ use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 
 
 
+/*
+El idioma por defecto de la aplicación es el ingles y por ello las rutas del idioma ingles omiten de la ruta "/en",
+para que aparezcan en la ruta solo hay que eliminar el middelware "localizationRedirect".
+*/
 Route::group(
 [
     'prefix' => LaravelLocalization::setLocale(),
